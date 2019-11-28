@@ -9,15 +9,19 @@ In this Project, I usually used openCv library for extracting different features
 ## Image processing
 
 Binary Image
+```
 ![img alt](https://github.com/Raushan998/filtering-the-image/blob/master/Binary.jpg)
-
+```
 Gray Image
+```
 ![img alt](https://github.com/Raushan998/filtering-the-image/blob/master/gray.jpg)
-
+```
 Normal Image
+```
 ![img alt](https://github.com/Raushan998/filtering-the-image/blob/master/idiots.jpg)
-
+```
 Hue,Saturation and Green,Blue and Red in same image
+```
 ![img alt](https://github.com/Raushan998/filtering-the-image/blob/master/image.jpg)
-
+````
 
