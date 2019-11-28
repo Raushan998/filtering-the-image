@@ -4,7 +4,11 @@ In this Project, I usually used openCv library for extracting different features
 ### What is computer Vision? How computer reads an image?
 
 ```
-computer sees the image between 0-255 , for coloured images there will be 3 channels i.e;Red, Blue and Green and matrix associated with these channels and each elements of this matrix represents the intensity of brightness of that pixels.A computer interprete a coloured matrix as 3-D matrix.
+computer sees the image between 0-255 , for coloured images there will be 3 channels i.e;Red, Blue and Green and matrix 
+
+associated with these channels and each elements of this matrix represents the intensity of brightness of that pixels.A 
+
+computer interprete a coloured matrix as 3-D matrix.
 ```
 
 ## Library Used:
@@ -46,5 +50,9 @@ Hue,Saturation and Green,Blue and Red in one image
 ![img alt](https://github.com/Raushan998/filtering-the-image/blob/master/image.jpg)
 
 ```
-for face detection we need a image and after that we have a cascade classifier ,it contains the features of face.The open cv will be read the image and feature the file i.e; convert into numpy array and search for the row and column values of the face numpy ndarray (The face rectangular coordinates)and display the image with rectangular box.
+for face detection we need a image and after that we have a cascade classifier ,it contains the features of face.The open cv 
+
+will be read the image and feature the file i.e; convert into numpy array and search for the row and column values of the 
+
+face numpy ndarray (The face rectangular coordinates)and display the image with rectangular box.
 ````
